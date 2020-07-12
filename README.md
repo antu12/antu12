@@ -1,4 +1,10 @@
-### Hi there 👋
+# ***MD. ARSHAD HOSSAIN***
+![](https://img.shields.io/badge/Developer-NodeJS-brightgreen) ![](https://img.shields.io/badge/DevOps-AWS-orange) ![](https://img.shields.io/badge/Exp-2+yrs-red) ![](https://img.shields.io/badge/Training-GCP-blue)
+### Hello there, 👋
+- 🔭 I’m currently working on a Ride-sharing application (NodeJS, AWS)
+- 📃 I’m currently learning Google Cloud Platform & Python for Data Science
+- 🌱 I’m currently trying to master 🐳 Docker & Kubernetes
+- 📫 Mail to reach me at: arshad.antu@gmail.com
 
 <!--
 **antu12/antu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
