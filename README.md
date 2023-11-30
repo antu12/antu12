@@ -1,7 +1,7 @@
 # ***MD. ARSHAD HOSSAIN***
-![](https://img.shields.io/badge/Developer-NodeJS-brightgreen) ![](https://img.shields.io/badge/DevOps-AWS-orange) ![](https://img.shields.io/badge/Exp-3+%20yrs-red) ![](https://img.shields.io/badge/Training-GCP-blue)
+![](https://img.shields.io/badge/Developer-NodeJS-brightgreen) ![](https://img.shields.io/badge/DevOps-AWS-orange) ![](https://img.shields.io/badge/Exp-4+%20yrs-red) ![](https://img.shields.io/badge/Training-GCP-blue)
 ### Hello there, 👋
-- 🔭 I’m currently working on a Ride-sharing application (NodeJS, AWS)
+- 🔭 I’m currently working on a Ride-sharing, Hotel Booking and Restaurant POS applications (NodeJS, AWS, Azure)
 - 📃 I’m currently learning Google Cloud Platform & Python for Data Science
 - 🌱 I’m currently trying to master 🐳 Docker & Kubernetes
 - 📫 Mail to reach me at: arshad.antu@gmail.com
